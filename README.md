@@ -1,25 +1,23 @@
 # Hello, I am Charles
 <a href="https://www.linkedin.com/in/charles-orakpo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Dedicated to fostering security awareness and protecting digital environments through continuous, hands-on learning and proactive threat mitigation.
+AI Trainer & Cybersecurity Professional
 
-## Objective
+## Summary
 
-I am a passionate and detail-oriented cybersecurity professional with a strong foundation in security principles and practices. My journey into this field is driven by a fascination with threat detection, a commitment to user security training, and an insatiable appetite for continuous learning. I am currently seeking a challenging role as a Cybersecurity Analyst or an entry-level Security Operations position where I can apply my skills to safeguard organizational assets and contribute to a robust security posture.
-
+AI Evaluation and Cybersecurity professional with 10+ years across banking, compliance, and digital operations. Skilled in evaluating LLM outputs, refining prompts, and applying safety and policy guidelines to improve model quality across diverse data labeling workflows. Experienced in AML/KYC, access control, and incident reporting within Canadian and Nigerian regulatory environments. Recognized for careful judgment, structured documentation, and handling sensitive information in fast-paced, high-risk environments.
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Identity and Access management (IAM)          | <a href="https://www.theforage.com/simulations/tata/cybersecurity-sbda">Tata Simulation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| LLM Output Evaluation                         | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
